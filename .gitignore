@@ -1,0 +1,5 @@
+# ignore all files in config dirs
+*/config/*
+
+# except for files named *Sample.json
+!*/config/*Sample.json
