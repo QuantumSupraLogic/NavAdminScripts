@@ -1,0 +1,28 @@
+{
+    "SourceSystem": [
+        {
+            "Name": "",
+            "DisplayName": "",
+            "DataSource": "",
+            "DatabaseName": ""
+        },
+        {
+            "Name": "",
+            "DisplayName": "",
+            "DataSource": "",
+            "DatabaseName": ""
+        }
+    ],
+    "ObjectGroup": [
+        {
+            "Name": "",
+            "DisplayName": "",
+            "VersionListFilter": ""
+        },
+        {
+            "Name": "",
+            "DisplayName": "",
+            "VersionListFilter": ""
+        }
+    ]
+}

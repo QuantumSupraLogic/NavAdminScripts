@@ -1,0 +1,22 @@
+{
+    "DestinationSystem": [
+        {
+            "Name": "",
+            "DisplayName": "",
+            "DataSource": "",
+            "DatabaseName": ""
+        },
+        {
+            "Name": "",
+            "DisplayName": "",
+            "DataSource": "",
+            "DatabaseName": ""
+        }
+    ],
+    "SourceSystem": {
+        "Name": "",
+        "DisplayName": "",
+        "DataSource": "",
+        "DatabaseName": ""
+    }
+}
