@@ -6,7 +6,9 @@ param (
     [Parameter(Mandatory)]
     [string] $userId
 )
-
+    
+Set-StrictMode -Version 3.0
+    
 function Main {
     if (-not (Get-Module PsLibConfigurationManager)) {
         Import-Module PsLibConfigurationManager
