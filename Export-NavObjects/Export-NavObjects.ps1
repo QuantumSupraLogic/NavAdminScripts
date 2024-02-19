@@ -68,7 +68,7 @@ function main {
         Set-Location $DestinationDirectory
         Invoke-Item .
     }
-    return $TempFolder
+    return $DestinationDirectory
 }
 
 main
